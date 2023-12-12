@@ -1,0 +1,3 @@
+12356789,j,df,e,,,00,00,0000,alta,fd,cancelada,
+98765432,jldfj,lkfjdlf,1,,,,,,alta,mersf,pendente,
+09876543,jklfjdld,lkjldkfd,1,,,00,00,0000,alta,jlkjl,pendente,
